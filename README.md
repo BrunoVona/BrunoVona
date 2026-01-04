@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BrunoVona
-- 👀 I’m interested in law, java, databases and feminism. 
-- 🌱 I’m currently learning java
+- 👀 I’m interested in CyberSec, Tech, Sport, Music but mostly Travel.
+
 
 <!---
 BrunoVona/BrunoVona is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
